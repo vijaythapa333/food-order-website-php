@@ -234,10 +234,14 @@
                             }
                         }
                     }
+                    else
+                    {
+                        $image_name = $current_image; //Default Image when Image is Not Selected
+                    }
                 }
                 else
                 {
-                    $image_name = $current_image;
+                    $image_name = $current_image; //Default Image when Button is not Clicked
                 }
 
                 
