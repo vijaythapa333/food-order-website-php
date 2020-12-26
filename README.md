@@ -25,7 +25,11 @@ In this course, you'll learn to Create a Complete Dynamic and Fully Functional W
 2. Add a Star 🌟  to this 👆 Repository
 
 
-## 💰 Donate
-*Note: My Country does not have international payment method like PayPal or Stripe yet.*
 
-**Donate by wire transfer:** contact *donate@vijaythapa.com* for wire transfer details. 
+## Donate
+
+**[PayPal](https://bit.ly/support-vijay-thapa)**
+
+**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
+
+**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
