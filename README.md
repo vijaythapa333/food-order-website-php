@@ -84,3 +84,4 @@ $db_select = mysqli_select_db($conn, DB_NAME) or die(mysqli_error()); //SElectin
 ```
 
 6. Now, Open the project in your browser. It should run perfectly.
+
